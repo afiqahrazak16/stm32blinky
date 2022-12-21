@@ -2,7 +2,7 @@
 Group Name:
 Group Members:
 a)
-b)
+b) Mazlen Zulleikhaa Binti Madzalan (A19EE0359)
 c) Nur Afiqah binti Ab Razak (MKE211090)
 
 Blinky (3%)
